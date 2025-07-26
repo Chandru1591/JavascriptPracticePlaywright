@@ -33,13 +33,13 @@
 // console.log(multiply(2, 3));  // Output: undefined ---> this is because return statement is not available
 
 
-const multiply = (a, b) => {
-    let result = a * b;
-    results=result +  " :output";
-    return result;
-};
+// const multiply = (a, b) => {
+//     let result = a * b;
+//     results=result +  " :output";
+//     return result;
+// };
 
-console.log(multiply(2, 3)); // Output: 6
+// console.log(multiply(2, 3)); // Output: 6
 
 
 // remove ; from each single line & run the same to check for output
